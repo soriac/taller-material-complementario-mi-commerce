@@ -1,0 +1,19 @@
+html {
+  --white: #FFFFFF;
+  --black: #000000;
+  --gray: #E5E5E5;
+  --blue-gray: #607D8B;
+  --primary: #FFC107;
+  --secondary: linear-gradient(135deg,#22B7FF 25%, #3F51B5 100%);
+  --margin-gap: 15px;
+}
+
+body {
+  margin: 0;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+
+  background-color: var(--gray);
+}
