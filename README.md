@@ -1,0 +1,2 @@
+# demo mi-commerce
+Este repositorio contiene el sitio terminado del [material complementario al curso](https://youtu.be/sz7Z9vynkF8) sobre como implementar un layout de un e-commerce en un sitio web estático con HTML5 y CSS3.
